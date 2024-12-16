@@ -26,8 +26,8 @@ Welcome to my GitHub profile! I'm an **aspiring quantitative developer** with a 
 
 ## 🌐 Let's Connect
 
-- [Fiverr Profile](https://www.fiverr.com)  
-- [LinkedIn](https://www.linkedin.com)  
-- [Email Me](mailto:your-email@example.com)  
+- [Fiverr Profile]([https://www.fiverr.com](https://www.fiverr.com/vslip_?source=gig_page&gigs=slug%3Abacktest-your-trading-strategy-in-tradingview%2Cpckg_id%3A1))  
+- [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/vansh-bachu-83178b2b4/))  
+- [Email Me](vanshbachu@gmail.com)  
 
 Feel free to explore my repositories and reach out for collaborations or projects!
